@@ -1,4 +1,4 @@
-# Lead-Opportunity-Management-Sales-# Dynamics 365 Sales — Lead to Opportunity Automation
+# Lead-Opportunity-Management Using Microsoft Dynamics 365 Sales
 
 A 90-second demo of an end-to-end Dynamics 365 + Power Automate workflow built 
 for a fictional bicycle retailer ("MAXi") that needed to efficiently track 
@@ -9,6 +9,7 @@ and convert leads from multiple channels into paying customers.
 ▶️ **[Watch on YouTube](<TODO: your YouTube URL>)**
 
 [![Demo video](https://img.youtube.com/vi/VxpqTS1i0OQ/maxresdefault.jpg)](https://youtu.be/VxpqTS1i0OQ)
+
 ## 🎯 Scenario
 
 MAXi, a bicycle retailer, needed to:
@@ -26,12 +27,8 @@ Opportunities) extended with custom fields and Power Platform automation.
 ### Custom configuration
 - Added **Bicycle Preference** and **Budget** custom fields to the Lead form
 - Configured the **Lead-to-Opportunity** business process flow
-- Set **Euro** as the default transaction currency
 
-### AI and Automation
-- **Predictive Lead Scoring** via Sales Insights — scores leads 0–100 with A–D grades
-- **Sales Accelerator sequences** for automated follow-up cadences with conditional branching
-- **Up Next widget** for suggested next actions on each record
+
 - **Power Automate flow** sends an email notification to the lead owner the moment a lead is created
 
 ## 🛠️ Built with
@@ -47,7 +44,7 @@ Opportunities) extended with custom fields and Power Platform automation.
 - Customised Lead form with Bicycle Preference and Budget fields
 - 5 sample leads created; 2 qualified into Opportunities
 - 3 opportunities advanced through the pipeline
-- End-to-end automation demoed in 90 seconds (see video above)
+- End-to-end automation demo (see video above)
 
 ## 📂 Power Automate Flow
 
