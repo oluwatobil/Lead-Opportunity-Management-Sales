@@ -48,7 +48,7 @@ Opportunities) extended with custom fields and Power Platform automation.
 
 ## 📂 Power Automate Flow
 
-Exported solution: [`notify-on-new-lead.zip`](./notify-on-new-lead.zip)
+Exported solution: [`D365SalesAutomation (Flow).zip`](./D365SalesAutomation%20%28Flow%29.zip)
 
 To reproduce:
 1. Go to make.powerautomate.com → Solutions → Import solution
