@@ -8,8 +8,7 @@ and convert leads from multiple channels into paying customers.
 
 ▶️ **[Watch on YouTube](<TODO: your YouTube URL>)**
 
-[![Demo video](https://img.youtube.com/vi/<TODO: YOUR_VIDEO_ID>/maxresdefault.jpg)](<TODO: your YouTube URL>)
-
+[![Demo video](https://img.youtube.com/vi/VxpqTS1i0OQ/maxresdefault.jpg)](https://youtu.be/VxpqTS1i0OQ)
 ## 🎯 Scenario
 
 MAXi, a bicycle retailer, needed to:
@@ -60,10 +59,4 @@ To reproduce:
 3. Map the Dataverse and Office 365 Outlook connections
 4. Activate the flow
 
-## 👤 About
 
-Built by **<TODO: Your Name>** as a self-directed Dynamics 365 portfolio project.
-
-🔗 [LinkedIn](<TODO: your LinkedIn URL>)
-
-*Open to junior Dynamics 365 and Power Platform roles.*
