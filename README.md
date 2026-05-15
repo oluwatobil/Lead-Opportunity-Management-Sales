@@ -25,11 +25,11 @@ Built using native Dynamics 365 Sales entities (Leads, Accounts, Contacts,
 Opportunities) extended with custom fields and Power Platform automation.
 
 ### Custom configuration
-- Added **Bicycle Preference** and **Budget** custom fields to the Lead form
-- Configured the **Lead-to-Opportunity** business process flow
+- Added Bicycle Preference and Budget custom fields to the Lead form
+- Configured the Lead-to-Opportunity business process flow
 
 
-- **Power Automate flow** sends an email notification to the lead owner the moment a lead is created
+- Power Automate flow sends an email notification to the lead owner the moment a lead is created
 
 ## 🛠️ Built with
 
